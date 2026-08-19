@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Aditya-Sonawane11/Aditya-Sonawane11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Aditya 👋
 
-Here are some ideas to get you started:
+### `Building things. Learning ML. Breaking things. Fixing them.`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Student · ML · Backend · MLOps**
+
+<br>
+
+*I want to build and deploy end-to-end products — and actually understand how they work.*
+
+</div>
+
+---
+
+### 🛠️ Tech I Work With
+
+**Languages**
+`Python` · `C++` · `SQL`
+
+**Web & Backend**
+`Next.js` · `React` · `Node.js` · `Angular`
+
+**Data & AI**
+`MySQL` · `SQLite` · `Ollama` · `Machine Learning` · `Image Processing`
+
+---
+
+### 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditya-Sonawane11&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="165" src="https://streak-stats.demolab.com/?user=Aditya-Sonawane11&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+### 🚀 Currently
+
+🧠 Learning **Machine Learning**
+⚙️ Getting deeper into **Backend & Databases**
+🌱 Exploring **Open Source**
+
+### 📌 Featured
+
+**PrepAI** — AI-powered multi-round interview simulator personalized using your resume.
+
+---
+
+<div align="center">
+
+### `Idea → Build → Deploy → Learn → Repeat.`
+
+[LinkedIn](#) · [Portfolio](#) · [Email](#)
+
+</div>

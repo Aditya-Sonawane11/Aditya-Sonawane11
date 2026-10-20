@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:1e1b4b,70:312e81,100:0369a1&text=ADITYA%20SONAWANE&fontSize=42&fontColor=E0F2FE&fontAlignY=38&desc=Small%20Steps%20%E2%80%A2%20Big%20Dreams&descSize=18&descAlignY=58&animation=fadeIn" alt="Aditya Sonawane — Space theme"/>
 
 <a href="https://github.com/Aditya-Sonawane11">
-<img src="https://komarev.com/ghpvc/?username=Aditya-Sonawane11&style=for-the-badge&color=312e81&label=EXPLORERS+VISITED" alt="Profile views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Aditya-Sonawane11&style=for-the-badge&color=312e81&label=EXPLORERS+VISITED" alt="Profile views"/> -->
 </a>
 <a href="https://github.com/Aditya-Sonawane11?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE-MY%20UNIVERSE-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Aditya-Sonawane11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies"/>
+<!-- <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Aditya-Sonawane11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies"/> -->
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Sonawane11&bg_color=050816&color=A78BFA&line=38BDF8&point=E0F2FE&area=true&hide_border=true&custom_title=Stellar%20Contribution%20Log" alt="Contribution activity graph"/>
+<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Sonawane11&bg_color=050816&color=A78BFA&line=38BDF8&point=E0F2FE&area=true&hide_border=true&custom_title=Stellar%20Contribution%20Log" alt="Contribution activity graph"/> -->
 
 </div>
 
